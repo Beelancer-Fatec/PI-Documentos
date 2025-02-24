@@ -1,0 +1,72 @@
+\section{Planejamento}
+\subsection{Do Planejamento}
+\subsubsection{A metodologia deste projeto seguiu um fluxo estruturado que compreende as etapas de planejamento, prototipação e desenvolvimento. Durante o planejamento foram definidas as principais características do sistema, englobando serviços, interatividade, interface e identidade visual, aspectos essenciais para a fase de prototipação onde foram utilizados softwares como Figma para o design visual e brModelo para modelagem de banco de dados conceitual.}
+
+\section{Prototipação}
+\subsection{Identidade Visual e Protótipo }
+\subsubsection{Por meio do software Figma, foi desenvolvida a identidade visual e o design do sistema, criando um protótipo de alta fidelidade, o protótipo inclui telas essenciais, como Tela Principal, Tela de Usuário, Tela de Chamado e Menu, garantindo a representação das funcionalidades principais. A navegação entre as telas foi projetada para ser intuitiva e funcional, possibilitando ao usuário uma experiência de uso fluida e facilitando a validação das interações do sistema}
+
+\subsection{Banco de dados }
+\subsubsection{A utilização da ferramenta brModelo possibilitou a criação de um modelo conceitual de banco de dados para o sistema, facilitando a estruturação lógica dos dados e suas relações. Embora o modelo ainda esteja em fase conceitual, ele oferece uma visão clara das entidades e dos relacionamentos necessários para o funcionamento do sistema, permitindo o planejamento detalhado dos requisitos de dados que serão implementados na fase de desenvolvimento.}
+
+\subsection{Landing Page}
+\subsubsection{Embora o foco do nosso sistema seja a aplicação móvel, também foi desenvolvida uma página web utilizando HTML, CSS e Bootstrap. Esta página tem como objetivo fornecer informações detalhadas sobre os serviços oferecidos, apresentando as funcionalidades disponíveis e orientando os usuários sobre as diversas possibilidades de uso. Além disso, a página inclui um atalho direto para o download do aplicativo, otimizando a acessibilidade e facilitando a interação dos usuários com a plataforma.}
+
+\subsection{Home Page }
+\subsubsection{Também foi desenvolvida uma Home page em Node.js com o framework Express para ampliar a acessibilidade e promover informações sobre o serviço, essa página web funciona como uma interface informativa, utilizando o Express para gerenciar requisições HTTP e garantindo respostas rápidas e estruturadas aos usuários. A integração é feita por meio de um banco de dados MySQL que fornece consulta e exibição dinâmica de informações, como listagem de serviços e perfis de freelancers diretamente na página, por meio dessa arquitetura facilita futuras expansões, como a implementação de formulários de contato que armazenam dados no MySQL, além de outras funcionalidades de interação direta entre o frontend e o backend, permitindo um gerenciamento eficiente de dados em tempo real.} 
+
+\begin{itemize}
+\item \textbf{bcrypt}: Foi utilizada para gerenciar a criptografia de senhas, garantindo a segurança no armazenamento de credenciais, por meio de hashing.
+\item \textbf{ejs}: Serviu como motor de templates, permitindo a renderização dinâmica de páginas HTML com dados enviados pelo servidor, facilitando a interação entre front-end e back-end.
+\item \textbf{express}: Atendeu como o framework principal para a criação do servidor, fornecendo uma estrutura simplificada para gerenciar rotas, requisições e respostas HTTP.
+\item \textbf{express-flash}: Foi usada para exibir mensagens de feedback temporárias (flash messages), como notificações de sucesso ou erro, entre requisições do usuário.
+\item \textbf{express-session}: Gerenciou sessões de usuário no servidor, armazenando dados temporários e garantindo persistência entre requisições enquanto o usuário estivesse autenticado.
+\item \textbf{mysql2}: Proporcionou uma interface otimizada para conexão e execução de operações no banco de dados MySQL, com suporte a promessas para simplificar o código assíncrono.
+\item \textbf{nodemon}: Facilitou o desenvolvimento ao reiniciar automaticamente o servidor toda vez que alterações no código foram detectadas, aumentando a produtividade.
+\item \textbf{sequelize}: Foi empregada como um ORM (Object-Relational Mapping), permitindo manipulação de dados no banco de forma programática, abstrata e eficiente, ao mapear tabelas para modelos em JavaScript.
+\end{itemize}
+
+\subsection{Algoritmo Merge Sort}
+
+O algoritmo \texttt{Merge Sort} foi implementado pois futuramente com uma grande introdução de dados na Aplicação, surgirá a necessidade dessa ordenação que utiliza o princípio de \textit{dividir e conquistar}, que consiste em dividir o array em subarrays menores, ordenando esses subarrays e, em seguida, os combina (ou \textit{merge}) para obter a lista ordenada. Abaixo está a explicação do algoritmo implementado no código:
+
+\begin{itemize}
+\item \textbf{Função mergeSort}: Recebe um array \texttt{arr} e uma chave \texttt{key} como parâmetros e realiza a ordenação.
+\begin{itemize}
+\item Caso o array tenha 0 ou 1 elemento, ele já está ordenado e é retornado imediatamente.
+\item Caso contrário, o array é dividido em duas metades:
+\begin{itemize}
+\item \texttt{left}: A primeira metade do array.
+\item \texttt{right}: A segunda metade do array.
+\end{itemize}
+ \item Essas duas metades são ordenadas recursivamente, utilizando chamadas recursivas da função \texttt{mergeSort}.
+\item Após as chamadas recursivas, as duas metades ordenadas são combinadas por meio da função \texttt{merge}.
+\end{itemize}
+    
+\item \textbf{Função merge}: Realiza a mesclagem das duas metades ordenadas.
+\begin{itemize}
+\item Inicializa um array vazio \texttt{result}, que armazenará os elementos ordenados.
+\item Utiliza dois índices, \texttt{i} e \texttt{j}, para percorrer as metades \texttt{left} e \texttt{right}, respectivamente.
+\item A comparação entre os elementos das duas metades é feita com base na chave \texttt{key}.
+\item Caso o valor da chave seja \texttt{"Não Classificado"}, ele é colocado no final da ordenação.
+\item Caso contrário, o valor é comparado de forma decrescente e o menor valor é inserido primeiro no array \texttt{result}.
+\item Após a comparação, o índice é incrementado para a próxima posição na respectiva metade.
+\item Quando todos os elementos de uma das metades forem processados, o restante da outra metade é concatenado ao array \texttt{result}.
+\end{itemize}
+    
+\item \textbf{Retorno da função mergeSort}: O array ordenado é retornado pela função \texttt{mergeSort}.
+\end{itemize}
+
+\subsection{Banco de Dados}
+\subsubsection{O banco de dados foi criado no \textbf{MySQL Workbench} com o nome de \textit{AppBeelancer}, e o ambiente de desenvolvimento foi configurado utilizando o \textbf{XAMPP} para fornecer a infraestrutura necessária, incluindo o servidor Apache e o MySQL para a criação e gerenciamento do banco de dados. A database \textit{AppBeelancer} consistiu em oito tabelas principais:}
+
+\begin{itemize}
+\item \textbf{Usuarios}: Armazenou informações dos usuários do sistema, como dados de autenticação e perfil.
+\item \textbf{Enderecos}: Continha os endereços de usuários, freelancers e clientes, incluindo detalhes como rua, cidade, estado e código postal.
+\item \textbf{Freelancers}: Registrou os dados dos freelancers, como nome, especialização e status.
+\item \textbf{Especialidades}: Armazenou as habilidades ou especializações oferecidas pelos freelancers.
+\item \textbf{Telefones}: Guardou os números de telefone, associando-os a usuários ou freelancers, com informações sobre o tipo e formato do número.
+\item \textbf{Clientes}: Registrou informações sobre os clientes que contrataram os serviços dos freelancers, incluindo os campos \texttt{createAt} e \texttt{updateAt} para rastrear as datas de criação e atualização dos registros.
+ \item \textbf{EspxFrees}: Foi responsável pela associação entre freelancers e especialidades, recebendo as chaves estrangeiras de ambas as tabelas.
+\item \textbf{Chamados}: Registrou os serviços requisitados pelos clientes, incluindo detalhes sobre o tipo de serviço, status e histórico.
+\end{itemize}

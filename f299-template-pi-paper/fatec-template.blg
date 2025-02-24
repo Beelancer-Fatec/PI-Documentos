@@ -1,0 +1,18 @@
+[0] Config.pm:308> INFO - This is Biber 2.20
+[1] Config.pm:311> INFO - Logfile is 'fatec-template.blg'
+[331] biber-MSWIN64:340> INFO - === 
+[399] Biber.pm:420> INFO - Reading 'fatec-template.bcf'
+[626] Biber.pm:994> INFO - Found 6 citekeys in bib section 0
+[651] Biber.pm:4463> INFO - Processing section 0
+[672] Biber.pm:4654> INFO - Looking for bibtex file 'fatec-article.bib' for section 0
+[780] bibtex.pm:1713> INFO - LaTeX decoding ...
+[798] bibtex.pm:1519> INFO - Found BibTeX data source 'fatec-article.bib'
+[891] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[892] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[892] Biber.pm:4283> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'pt-BR'
+[892] Biber.pm:4289> INFO - No sort tailoring available for locale 'pt-BR'
+[908] bbl.pm:676> INFO - Writing 'fatec-template.bbl' with encoding 'UTF-8'
+[912] bbl.pm:779> INFO - Output to fatec-template.bbl
+[912] Biber.pm:131> WARN - legacy month field 'dec' in entry 'Silva2022' is not an integer - this will probably not sort properly.
+[913] Biber.pm:131> WARN - legacy month field 'jun' in entry 'Oliveira2022' is not an integer - this will probably not sort properly.
+[913] Biber.pm:133> INFO - WARNINGS: 2
