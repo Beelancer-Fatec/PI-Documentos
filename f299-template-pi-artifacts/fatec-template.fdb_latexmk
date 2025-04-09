@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber fatec-template"] 1740415808.78138 "fatec-template.bcf" "fatec-template.bbl" "fatec-template" 1740415889.63276 0
-  "fatec-template.bcf" 1740415889 113594 6ead2ce027f19911aae584e1d969ac13 "pdflatex"
+["biber fatec-template"] 1744224135.98143 "fatec-template.bcf" "fatec-template.bbl" "fatec-template" 1744224146.38637 0
+  "fatec-template.bcf" 1744224145 113594 6ead2ce027f19911aae584e1d969ac13 "pdflatex"
   (generated)
   "fatec-template.bbl"
   "fatec-template.blg"
   (rewritten before read)
-["pdflatex"] 1740415883.38212 "d:/Users/DELL/Desktop/class-09-latex/f299-template-pi-artifacts/fatec-template.tex" "fatec-template.pdf" "fatec-template" 1740415889.63436 0
-  "C:/Users/DELL/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1740415805 122199 f0a029dcadf437d1491ad2875c164ac4 ""
+["pdflatex"] 1744224139.98467 "d:/Users/DELL/Desktop/PI-Documentos/f299-template-pi-artifacts/fatec-template.tex" "fatec-template.pdf" "fatec-template" 1744224146.38746 0
+  "C:/Users/DELL/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1740416063 122199 f0a029dcadf437d1491ad2875c164ac4 ""
   "C:/Users/DELL/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1740414450 12015340 27918ccd41e6890829da98585036da14 ""
   "C:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
   "C:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecrm1200.tfm" 993062126 3152 4850ff0163852b7fab34bd55e1197f28 ""
@@ -173,17 +173,17 @@
   "C:/Users/DELL/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.sty" 1585221260 8510 7803f78066c4f9d008405191a4b43073 ""
   "C:/Users/DELL/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
   "C:/Users/DELL/AppData/Local/Programs/MiKTeX/tex/latex/xurl/xurl.sty" 1641733940 4675 e4b8c405820368c2dfb03526e16d725a ""
-  "Logos/caso_de_uso_1.jpg" 1740413346 48638 c220a73930662b6564297bc0924635fe ""
-  "Logos/diagrama_objetos.png" 1740413346 7415 4d1e7a7efd0c5673c163d64716af18ff ""
-  "Logos/diagramaclasse.png" 1740413346 99252 2a4f7d20135db955f4b7d4812d8f67b1 ""
-  "d:/Users/DELL/Desktop/class-09-latex/f299-template-pi-artifacts/fatec-template.tex" 1740413346 2523 788199aef27ae64c2040e7558017a614 ""
-  "fatec-article.sty" 1740413346 40662 bf9c8d6e851cda1aa131bd67402f9dad ""
-  "fatec-template.aux" 1740415888 2327 7af50f5a196752aaa8372451a18ebd52 "pdflatex"
-  "fatec-template.bbl" 1740415876 0 d41d8cd98f00b204e9800998ecf8427e "biber fatec-template"
-  "fatec-template.out" 1740415889 666 5e2f27ce56be21f36f6d6cf9e544c0b2 "pdflatex"
-  "fatec-template.run.xml" 1740415889 2533 ddd91e20767af94d459033942f5b644d "pdflatex"
-  "fatec-template.tex" 1740413346 2523 788199aef27ae64c2040e7558017a614 ""
-  "fatec-template.toc" 1740415889 396 ae7c67ebfec545422d516619a2f267ae "pdflatex"
+  "Logos/caso_de_uso_1.jpg" 1744222944 48638 c220a73930662b6564297bc0924635fe ""
+  "Logos/diagrama_objetos.png" 1744222944 7415 4d1e7a7efd0c5673c163d64716af18ff ""
+  "Logos/diagramaclasse.png" 1744222945 99252 2a4f7d20135db955f4b7d4812d8f67b1 ""
+  "d:/Users/DELL/Desktop/PI-Documentos/f299-template-pi-artifacts/fatec-template.tex" 1744222945 2523 788199aef27ae64c2040e7558017a614 ""
+  "fatec-article.sty" 1744222945 40662 bf9c8d6e851cda1aa131bd67402f9dad ""
+  "fatec-template.aux" 1744224145 2327 7af50f5a196752aaa8372451a18ebd52 "pdflatex"
+  "fatec-template.bbl" 1744224139 0 d41d8cd98f00b204e9800998ecf8427e "biber fatec-template"
+  "fatec-template.out" 1744224145 666 5e2f27ce56be21f36f6d6cf9e544c0b2 "pdflatex"
+  "fatec-template.run.xml" 1744224145 2533 ddd91e20767af94d459033942f5b644d "pdflatex"
+  "fatec-template.tex" 1744222945 2523 788199aef27ae64c2040e7558017a614 ""
+  "fatec-template.toc" 1744224145 396 ae7c67ebfec545422d516619a2f267ae "pdflatex"
   (generated)
   "fatec-template.aux"
   "fatec-template.bcf"

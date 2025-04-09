@@ -5,7 +5,7 @@
   a4paper,%% Tamanho de papel: a4paper, letterpaper (^), etc.
   12pt,%% Tamanho de fonte: 10pt (^), 11pt, 12pt, etc.
   english,%% Idioma secundário (penúltimo) (>)
-  brazilian,%% Idioma primário (último) (>)
+  brazilian%% Idioma primário (último) (>)
 ]{article}
 
 %% Pacotes utilizados
@@ -16,18 +16,19 @@ Claudio, Diego Baltazar de Souza\\ Gomes, Igor Leite\\}}
 \Author{2}{Name={\{ leandro.muniz@fatec.sp.gov.br \}\\ \{ yan.albuquerque@fatec.sp.gov.br \}\\ \{ diego.claudio@fatec.sp.gov.br \}\\ \{ igor.gomes4@fatec.sp.gov.br \}}}
 
 %% Definição das palavras-chaves/keywords
-\Keyword{1}{Freelancers}{Freelancers}
-\Keyword{2}{Aplicativo}{Application}
-\Keyword{3}{Geolocalização}{Geo-localization}
+\Keyword{1}{Economia Gig}{Gig Economy}
+\Keyword{2}{Trabalhador Autônomo}{Self-Employed Workers}
+\Keyword{3}{Geolocalização}{Geolocation}
+\Keyword{4}{Algoritmo de Recomendação}{Recommendation Algorithm}
 
 %%%% Resumo no idioma primário (brazilian)
 \begin{Abstract}[brazilian]%% Idioma (brazilian ou english)
-Este projeto aborda o tema da economia gig e suas relevâncias dentro mercado de trabalho atual, com foco principal em desenvolver a conexão entre contratantes e fornecedores de serviços que abrangem diversas areas de atuação, atualmente essa interação demanda de tempo e alta burocracia para ambas as partes envolvidas, prolongando o tempo de busca para solucionar essas demandas. A proposta visa utilizar geolocalização em tempo real e um sistema de avaliação dos serviços com base nas notas de avaliação.Essa abordagem facilita, agiliza e economiza tempo para atender as necessidades de contratantes e freelancers, aumentando a confiança e celeridade nos processos de interação de trabalhos rápidos. Os resultados preliminares indicam que o projeto possui o potencial de solucionar e promover conexões seguras e rápidas para serviços de freelancers.
+Este estudo propõe o desenvolvimento de um sistema web para fomentar o mercado de trabalho vinculado à economia gig,  promovendo a digitalização do trabalhador autônomo. Atualmente, a divulgação dos serviços prestados por profissionais autônomos é realizada, em sua maioria, sem ampla exposição digital, o que dificulta a conexão entre prestadores de serviços e potenciais clientes. A proposta tem como foco profissionais autônomos que prestam serviços manuais, um segmento com amplo espaço para evolução, e visa facilitar a busca por trabalhadores e agilizar a interação para contratação de serviços. O Projeto integra ferramentas como catálogo de profissionais, geolocalização e um sistema de avaliação, permitindo a recomendação de prestadores de serviço mais bem avaliados próximos a localização do usuário. Para isso, serão utilizados os algoritmos Árvore k-d e KNN, que possibilitam a identificação eficiente dos trabalhadores mais relevantes. Essa abordagem facilita a contratação segura e ágil, fortalecendo a relação entre autônomos e clientes, além de fomentar o crescimento do mercado de trabalho relacionado a economia gig. 
 \end{Abstract}
 
 %%%% Resumo no idioma secundário (english)
 \begin{Abstract}[english]%% Idioma (brazilian ou english)
-This project addresses the topic of the gig economy and its relevance within the current job market, with the main focus on developing the connection between contractors and service providers that cover different areas of activity, currently this interaction demands time and high bureaucracy for both parties involved, prolonging the search time to resolve these demands. The proposal aims to use real-time geolocation and a service evaluation system based on evaluation scores. This approach facilitates, speeds up and saves time to meet the needs of contractors and freelancers, increasing confidence and speed in work interaction processes fast. Preliminary results indicate that the project has the potential to solve and promote secure and fast connections for freelance services.
+This study proposes the development of a web-based system aimed at boosting the job market linked to the gig economy by promoting the digitalization of self-employed workers. Currently, the promotion of services offered by freelance professionals is largely carried out without significant digital exposure, making it difficult to connect service providers with potential clients. The project focuses on self-employed professionals who offer manual services, a segment with substantial room for growth, and seeks to facilitate the search for workers and streamline the process of hiring services. The platform will integrate features such as a professional catalog, geolocation, and a rating system, allowing users to be recommended top-rated service providers near their location. To achieve this, algorithms such as the k-d Tree and K-Nearest Neighbors (KNN) will be employed to efficiently identify the most relevant workers. This approach enables a safer and faster hiring process, strengthens the relationship between freelancers and clients, and fosters the growth of the job market related to the gig economy.
 \end{Abstract}
 
 %% Processamento de entradas (itens) do índice remissivo (makeindex)
@@ -52,6 +53,7 @@ This project addresses the topic of the gig economy and its relevance within the
 
 \section*{Introdução}%
 \label{sect:intro}
+
 \input{Topicos/introducao}
 
 \section*{OBJETIVO} \label{sect:obj}
@@ -66,15 +68,19 @@ This project addresses the topic of the gig economy and its relevance within the
 
 \input{Topicos/metodologia}
 
-\section*{RESULTADOS PRELIMINARES}\label{sect:resultados}
 
-\input{Topicos/resultados}
 
-\section*{CONCLUSÃO}\label{sect:conclusao}
+% \section*{RESULTADOS PRELIMINARES}\label{sect:resultados}
 
-\input{Topicos/conclusao}
+% \input{Topicos/resultados}
+
+% \section*{CONCLUSÃO}\label{sect:conclusao}
+
+% \input{Topicos/conclusao}
 
 \printbibliography
+
+
 
 %% Elementos pós-textuais (opcionais): Apêndice e Anexo
 %Caso for utilizar, basta retirar o símbolo de % na frente do comando

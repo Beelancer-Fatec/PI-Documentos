@@ -1,0 +1,188 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{99Freelas}{url}{}{}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labeltitlesource}{title}
+      \field{title}{99Freelas}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.99freelas.com.br
+      \endverb
+      \verb{url}
+      \verb https://www.99freelas.com.br
+      \endverb
+    \endentry
+    \entry{Fiverr}{url}{}{}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Fiverr}
+      \field{urlmonth}{11}
+      \field{urlyear}{2024}
+      \field{year}{2010}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.fiverr.com/?source=top_nav
+      \endverb
+      \verb{url}
+      \verb https://www.fiverr.com/?source=top_nav
+      \endverb
+    \endentry
+    \entry{GetNinjas}{url}{}{}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{GetNinjas}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2011}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.getninjas.com.br
+      \endverb
+      \verb{url}
+      \verb https://www.getninjas.com.br
+      \endverb
+    \endentry
+    \entry{Kassie2018}{url}{}{}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Kassie e Lehdonvirta}
+      \field{urlmonth}{11}
+      \field{urlyear}{2024}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ideas.repec.org/p/pra/mprapa/74943.html
+      \endverb
+      \verb{url}
+      \verb https://ideas.repec.org/p/pra/mprapa/74943.html
+      \endverb
+    \endentry
+    \entry{Oliveira2022}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c5a478f7c03046d9958d0d7322f20c37}{%
+           family={Oliveira},
+           familyi={O\bibinitperiod},
+           given={Douglas\bibnamedelimb Wender\bibnamedelimb Lopes\bibnamedelima de},
+           giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim d\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Dois Vizinhos, PR}%
+      }
+      \list{publisher}{1}{%
+        {Universidade Tecnológica Federal do Paraná}%
+      }
+      \strng{namehash}{c5a478f7c03046d9958d0d7322f20c37}
+      \strng{fullhash}{c5a478f7c03046d9958d0d7322f20c37}
+      \strng{fullhashraw}{c5a478f7c03046d9958d0d7322f20c37}
+      \strng{bibnamehash}{c5a478f7c03046d9958d0d7322f20c37}
+      \strng{authorbibnamehash}{c5a478f7c03046d9958d0d7322f20c37}
+      \strng{authornamehash}{c5a478f7c03046d9958d0d7322f20c37}
+      \strng{authorfullhash}{c5a478f7c03046d9958d0d7322f20c37}
+      \strng{authorfullhashraw}{c5a478f7c03046d9958d0d7322f20c37}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Trabalho de Conclusão de Curso (Engenharia de Software)}
+      \field{month}{6}
+      \field{title}{Utilização de API para geolocalização em tempo real de encomendas pedidas por meio de um aplicativo mobile multiplataforma}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb http://repositorio.utfpr.edu.br/jspui/handle/1/32355
+      \endverb
+      \verb{url}
+      \verb http://repositorio.utfpr.edu.br/jspui/handle/1/32355
+      \endverb
+    \endentry
+    \entry{Silva2022}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=134f748dbd8f6293f5264d0aea3fd7e8}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Amanda\bibnamedelima Carvalho},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8e9c6b287311742381da8d089a587d11}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Gabriel\bibnamedelimb Cezário\bibnamedelimb Fereira\bibnamedelima da},
+           giveni={G\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim d\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e982e1961ef1039e42f009a413982986}{%
+           family={Souza},
+           familyi={S\bibinitperiod},
+           given={Julio\bibnamedelimb Gonçalves\bibnamedelima de},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim d\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {São Bernardo do Campo, SP}%
+      }
+      \list{publisher}{1}{%
+        {Faculdade de Tecnologia "Adib Moisés Dib"}%
+      }
+      \strng{namehash}{331ad17473b8645bf22f0ff494cebf87}
+      \strng{fullhash}{331ad17473b8645bf22f0ff494cebf87}
+      \strng{fullhashraw}{331ad17473b8645bf22f0ff494cebf87}
+      \strng{bibnamehash}{331ad17473b8645bf22f0ff494cebf87}
+      \strng{authorbibnamehash}{331ad17473b8645bf22f0ff494cebf87}
+      \strng{authornamehash}{331ad17473b8645bf22f0ff494cebf87}
+      \strng{authorfullhash}{331ad17473b8645bf22f0ff494cebf87}
+      \strng{authorfullhashraw}{331ad17473b8645bf22f0ff494cebf87}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Trabalho de conclusão de curso (Curso Superior de Tecnologia em Informática para Negócios)}
+      \field{month}{12}
+      \field{title}{Sistemática proposta para seleção de fornecedores em gestão de projetos}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://ric.cps.sp.gov.br/handle/123456789/16034
+      \endverb
+      \verb{url}
+      \verb https://ric.cps.sp.gov.br/handle/123456789/16034
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

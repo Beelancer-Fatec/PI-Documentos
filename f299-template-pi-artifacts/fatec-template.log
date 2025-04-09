@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.2) (preloaded format=pdflatex 2025.2.24)  24 FEB 2025 13:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.2) (preloaded format=pdflatex 2025.2.24)  9 APR 2025 15:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/Users/DELL/Desktop/class-09-latex/f299-template-pi-artifacts/fatec-template.tex
-(d:/Users/DELL/Desktop/class-09-latex/f299-template-pi-artifacts/fatec-template.tex
+**d:/Users/DELL/Desktop/PI-Documentos/f299-template-pi-artifacts/fatec-template.tex
+(d:/Users/DELL/Desktop/PI-Documentos/f299-template-pi-artifacts/fatec-template.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -1335,12 +1335,12 @@ Package logreq Info: Writing requests to 'fatec-template.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  33851 strings out of 473522
- 612645 string characters out of 5715093
+ 612633 string characters out of 5715093
  1599066 words of memory out of 5000000
  56594 multiletter control sequences out of 15000+600000
  592823 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 87i,13n,131p,1757b,4536s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 87i,13n,131p,1756b,4536s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb>
 Output written on fatec-template.pdf (4 pages, 229944 bytes).
 PDF statistics:
