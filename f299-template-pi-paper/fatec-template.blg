@@ -1,0 +1,22 @@
+[1] Config.pm:308> INFO - This is Biber 2.20
+[2] Config.pm:311> INFO - Logfile is 'fatec-template.blg'
+[332] biber-MSWIN64:340> INFO - === 
+[429] Biber.pm:420> INFO - Reading 'fatec-template.bcf'
+[775] Biber.pm:994> INFO - Found 9 citekeys in bib section 0
+[797] Biber.pm:4463> INFO - Processing section 0
+[815] Biber.pm:4654> INFO - Looking for bibtex file 'fatec-article.bib' for section 0
+[914] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1131] bibtex.pm:1519> INFO - Found BibTeX data source 'fatec-article.bib'
+[1260] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1260] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1260] Biber.pm:4283> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'pt-BR'
+[1260] Biber.pm:4289> INFO - No sort tailoring available for locale 'pt-BR'
+[1293] bbl.pm:676> INFO - Writing 'fatec-template.bbl' with encoding 'UTF-8'
+[1317] bbl.pm:779> INFO - Output to fatec-template.bbl
+[1318] Biber.pm:131> WARN - url entry 'ROCKCONTENT2023' (fatec-article.bib): Invalid format '2025-4' of date field 'urldate' - ignoring
+[1318] Biber.pm:131> WARN - url entry 'IBGE2022' (fatec-article.bib): Invalid format '2025-4' of date field 'urldate' - ignoring
+[1319] Biber.pm:131> WARN - url entry 'RochaFerreira2022' (fatec-article.bib): Invalid format '2025-4' of date field 'urldate' - ignoring
+[1319] Biber.pm:131> WARN - url entry 'ESTADAO2020' (fatec-article.bib): Invalid format '2025-4' of date field 'urldate' - ignoring
+[1319] Biber.pm:131> WARN - legacy month field 'dec' in entry 'Silva2022' is not an integer - this will probably not sort properly.
+[1319] Biber.pm:131> WARN - legacy month field 'jun' in entry 'Oliveira2022' is not an integer - this will probably not sort properly.
+[1319] Biber.pm:133> INFO - WARNINGS: 6

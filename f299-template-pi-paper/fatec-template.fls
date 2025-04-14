@@ -8,6 +8,8 @@ INPUT C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
 INPUT C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
 INPUT C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
 INPUT C:\Users\DELL\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
 INPUT .\fatec-article.sty
 INPUT fatec-article.sty
 INPUT C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex\latex\xpatch\xpatch.sty
@@ -468,6 +470,7 @@ INPUT C:\Users\DELL\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmtt12.
 INPUT C:\Users\DELL\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmsso12.tfm
 INPUT C:\Users\DELL\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmtt9.tfm
 INPUT C:\Users\DELL\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmtt8.tfm
+INPUT C:\Users\DELL\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ts1-lmssbx10.tfm
 INPUT fatec-template.aux
 INPUT .\fatec-template.out
 INPUT .\fatec-template.out

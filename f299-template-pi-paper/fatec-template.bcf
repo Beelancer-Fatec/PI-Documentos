@@ -2464,12 +2464,15 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">fatec-article.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">Kassie2018</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">99Freelas</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">GetNinjas</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">Fiverr</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">Silva2022</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">Oliveira2022</bcf:citekey>
+    <bcf:citekey order="1" intorder="1">ROCKCONTENT2023</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">IBGE2022</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">RochaFerreira2022</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">ESTADAO2020</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">99Freelas</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">GetNinjas</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">Fiverr</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">Silva2022</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">Oliveira2022</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

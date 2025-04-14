@@ -36,6 +36,36 @@
       \verb https://www.99freelas.com.br
       \endverb
     \endentry
+    \entry{ESTADAO2020}{url}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=66278b6aece59c590572a9f410603e52}{%
+           family={Estadão},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{66278b6aece59c590572a9f410603e52}
+      \strng{fullhash}{66278b6aece59c590572a9f410603e52}
+      \strng{fullhashraw}{66278b6aece59c590572a9f410603e52}
+      \strng{bibnamehash}{66278b6aece59c590572a9f410603e52}
+      \strng{authorbibnamehash}{66278b6aece59c590572a9f410603e52}
+      \strng{authornamehash}{66278b6aece59c590572a9f410603e52}
+      \strng{authorfullhash}{66278b6aece59c590572a9f410603e52}
+      \strng{authorfullhashraw}{66278b6aece59c590572a9f410603e52}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Elas oferecem serviço de reparo doméstico para LGBTs e mulheres com medo de receber homens em casa}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.estadao.com.br/emais/comportamento/elas-oferecem-servico-de-reparo-domestico-para-lgbts-e-mulheres-com-medo-de-receber-homens-em-casa/
+      \endverb
+      \verb{url}
+      \verb https://www.estadao.com.br/emais/comportamento/elas-oferecem-servico-de-reparo-domestico-para-lgbts-e-mulheres-com-medo-de-receber-homens-em-casa/
+      \endverb
+      \warn{\item url entry 'ESTADAO2020' (fatec-article.bib): Invalid format '2025-4' of date field 'urldate' - ignoring}
+    \endentry
     \entry{Fiverr}{url}{}{}
       \field{sortinit}{F}
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
@@ -72,23 +102,35 @@
       \verb https://www.getninjas.com.br
       \endverb
     \endentry
-    \entry{Kassie2018}{url}{}{}
-      \field{sortinit}{K}
-      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+    \entry{IBGE2022}{url}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3898f1ceb6fdd56f963db7f9326130e4}{%
+           family={IBGE},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{3898f1ceb6fdd56f963db7f9326130e4}
+      \strng{fullhash}{3898f1ceb6fdd56f963db7f9326130e4}
+      \strng{fullhashraw}{3898f1ceb6fdd56f963db7f9326130e4}
+      \strng{bibnamehash}{3898f1ceb6fdd56f963db7f9326130e4}
+      \strng{authorbibnamehash}{3898f1ceb6fdd56f963db7f9326130e4}
+      \strng{authornamehash}{3898f1ceb6fdd56f963db7f9326130e4}
+      \strng{authorfullhash}{3898f1ceb6fdd56f963db7f9326130e4}
+      \strng{authorfullhashraw}{3898f1ceb6fdd56f963db7f9326130e4}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
+      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Kassie e Lehdonvirta}
-      \field{urlmonth}{11}
-      \field{urlyear}{2024}
-      \field{year}{2018}
-      \field{urldateera}{ce}
+      \field{title}{PNAD Contínua Trimestral: Desocupação fica estável em 26 das 27 UFs no 1º trimestre de 2022}
+      \field{year}{2022}
       \verb{urlraw}
-      \verb https://ideas.repec.org/p/pra/mprapa/74943.html
+      \verb https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/33703-pnad-continua-trimestral-desocupacao-fica-estavel-em-26-das-27-ufs-no-1-trimestre-de-2022
       \endverb
       \verb{url}
-      \verb https://ideas.repec.org/p/pra/mprapa/74943.html
+      \verb https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/33703-pnad-continua-trimestral-desocupacao-fica-estavel-em-26-das-27-ufs-no-1-trimestre-de-2022
       \endverb
+      \warn{\item url entry 'IBGE2022' (fatec-article.bib): Invalid format '2025-4' of date field 'urldate' - ignoring}
     \endentry
     \entry{Oliveira2022}{article}{}{}
       \name{author}{1}{}{%
@@ -129,6 +171,69 @@
       \verb{url}
       \verb http://repositorio.utfpr.edu.br/jspui/handle/1/32355
       \endverb
+    \endentry
+    \entry{RochaFerreira2022}{url}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=244a1a8be11bae4a8b1062bb6fcd15c8}{%
+           family={Rocha\bibnamedelima Ferreira},
+           familyi={R\bibinitperiod\bibinitdelim F\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{244a1a8be11bae4a8b1062bb6fcd15c8}
+      \strng{fullhash}{244a1a8be11bae4a8b1062bb6fcd15c8}
+      \strng{fullhashraw}{244a1a8be11bae4a8b1062bb6fcd15c8}
+      \strng{bibnamehash}{244a1a8be11bae4a8b1062bb6fcd15c8}
+      \strng{authorbibnamehash}{244a1a8be11bae4a8b1062bb6fcd15c8}
+      \strng{authornamehash}{244a1a8be11bae4a8b1062bb6fcd15c8}
+      \strng{authorfullhash}{244a1a8be11bae4a8b1062bb6fcd15c8}
+      \strng{authorfullhashraw}{244a1a8be11bae4a8b1062bb6fcd15c8}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Tecnologia e trabalho: Os impactos da gig economy no mundo do trabalho brasileiro}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.jusbrasil.com.br/artigos/tecnologia-e-trabalho-os-impactos-da-gig-economy-no-mundo-do-trabalho-brasileiro/2236802600
+      \endverb
+      \verb{url}
+      \verb https://www.jusbrasil.com.br/artigos/tecnologia-e-trabalho-os-impactos-da-gig-economy-no-mundo-do-trabalho-brasileiro/2236802600
+      \endverb
+      \warn{\item url entry 'RochaFerreira2022' (fatec-article.bib): Invalid format '2025-4' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{ROCKCONTENT2023}{url}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=30294281552617154d975107edb8aee5}{%
+           family={ROCKCONTENT},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{30294281552617154d975107edb8aee5}
+      \strng{fullhash}{30294281552617154d975107edb8aee5}
+      \strng{fullhashraw}{30294281552617154d975107edb8aee5}
+      \strng{bibnamehash}{30294281552617154d975107edb8aee5}
+      \strng{authorbibnamehash}{30294281552617154d975107edb8aee5}
+      \strng{authornamehash}{30294281552617154d975107edb8aee5}
+      \strng{authorfullhash}{30294281552617154d975107edb8aee5}
+      \strng{authorfullhashraw}{30294281552617154d975107edb8aee5}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The history of the modern gig economy}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://rockcontent.com/blog/the-history-of-the-modern-gig-economy/
+      \endverb
+      \verb{url}
+      \verb https://rockcontent.com/blog/the-history-of-the-modern-gig-economy/
+      \endverb
+      \warn{\item url entry 'ROCKCONTENT2023' (fatec-article.bib): Invalid format '2025-4' of date field 'urldate' - ignoring}
     \endentry
     \entry{Silva2022}{article}{}{}
       \name{author}{3}{}{%

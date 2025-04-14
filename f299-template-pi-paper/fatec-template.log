@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.2) (preloaded format=pdflatex 2025.2.24)  9 APR 2025 16:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.2) (preloaded format=pdflatex 2025.2.24)  14 APR 2025 10:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -23,6 +23,17 @@ File: size12.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen141
+) (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box52
+\beforetitleunit=\skip51
+\aftertitleunit=\skip52
+\ttl@plus=\dimen142
+\ttl@minus=\dimen143
+\ttl@toksa=\toks17
+\titlewidth=\dimen144
+\titlewidthlast=\dimen145
+\titlewidthfirst=\dimen146
 ) (fatec-article.sty
 Package: fatec-article 2024/02/15 v1.6 fatec-article package
  (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/xpatch\xpatch.sty (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
@@ -30,7 +41,7 @@ Package: expl3 2025-01-18 L3 programming layer (loader)
  (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count270
-\l__pdf_internal_box=\box52
+\l__pdf_internal_box=\box53
 ))
 Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
  (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
@@ -45,7 +56,7 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 ) (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2025/02/14 v25.4 The multilingual framework for pdfLaTeX, LuaLaTeX and XeLaTeX
 \babel@savecnt=\count272
-\U@D=\dimen142
+\U@D=\dimen147
 \l@unhyphenated=\language79
  (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
@@ -77,8 +88,8 @@ Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 11.
 ) (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
-\inpenc@prehook=\toks17
-\inpenc@posthook=\toks18
+\inpenc@prehook=\toks18
+\inpenc@posthook=\toks19
 ) (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 ) (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty
@@ -138,8 +149,8 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 ) (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
  (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
-\XKV@toks=\toks19
-\XKV@tempa@toks=\toks20
+\XKV@toks=\toks20
+\XKV@tempa@toks=\toks21
  (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\keyval.tex))
 \XKV@depth=\count274
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
@@ -173,37 +184,37 @@ LaTeX Info: Redefining \textsw on input line 47.
 LaTeX Info: Redefining \textssc on input line 48.
 LaTeX Info: Redefining \textulc on input line 49.
 )
-\tx@sixem=\dimen143
-\tx@y=\dimen144
-\tx@x=\dimen145
-\tx@tmpdima=\dimen146
-\tx@tmpdimb=\dimen147
-\tx@tmpdimc=\dimen148
-\tx@tmpdimd=\dimen149
-\tx@tmpdime=\dimen150
-\tx@tmpdimf=\dimen151
-\tx@dimA=\dimen152
-\tx@dimAA=\dimen153
-\tx@dimB=\dimen154
-\tx@dimBB=\dimen155
-\tx@dimC=\dimen156
+\tx@sixem=\dimen148
+\tx@y=\dimen149
+\tx@x=\dimen150
+\tx@tmpdima=\dimen151
+\tx@tmpdimb=\dimen152
+\tx@tmpdimc=\dimen153
+\tx@tmpdimd=\dimen154
+\tx@tmpdime=\dimen155
+\tx@tmpdimf=\dimen156
+\tx@dimA=\dimen157
+\tx@dimAA=\dimen158
+\tx@dimB=\dimen159
+\tx@dimBB=\dimen160
+\tx@dimC=\dimen161
 LaTeX Info: Redefining \oldstylenums on input line 902.
 ) (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/newtx\newtxmath.sty
 Package: newtxmath 2024/09/22 v1.754
  `newtxmath' v1.754, 2024/09/22 Math macros based originally on txfonts (msharpe) (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2024/11/05 v2.17t AMS math features
-\@mathmargin=\skip51
+\@mathmargin=\skip53
 
 For additional information on amsmath, use the `?' option.
 (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
  (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks21
-\ex@=\dimen157
+\@emptytoks=\toks22
+\ex@=\dimen162
 )) (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen158
+\pmbraise@=\dimen163
 ) (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
@@ -218,13 +229,13 @@ LaTeX Info: Redefining \colon on input line 409.
 LaTeX Info: Redefining \ldots on input line 495.
 LaTeX Info: Redefining \dots on input line 498.
 LaTeX Info: Redefining \cdots on input line 619.
-\Mathstrutbox@=\box53
-\strutbox@=\box54
+\Mathstrutbox@=\box54
+\strutbox@=\box55
 LaTeX Info: Redefining \big on input line 721.
 LaTeX Info: Redefining \Big on input line 722.
 LaTeX Info: Redefining \bigg on input line 723.
 LaTeX Info: Redefining \Bigg on input line 724.
-\big@size=\dimen159
+\big@size=\dimen164
 LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
 \macc@depth=\count284
@@ -237,21 +248,21 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \dotsspace@=\muskip17
 \c@parentequation=\count286
 \dspbrk@lvl=\count287
-\tag@help=\toks22
+\tag@help=\toks23
 \row@=\count288
 \column@=\count289
 \maxfields@=\count290
-\andhelp@=\toks23
-\eqnshift@=\dimen160
-\alignsep@=\dimen161
-\tagshift@=\dimen162
-\tagwidth@=\dimen163
-\totwidth@=\dimen164
-\lineht@=\dimen165
-\@envbody=\toks24
-\multlinegap=\skip52
-\multlinetaggap=\skip53
-\mathdisplay@stack=\toks25
+\andhelp@=\toks24
+\eqnshift@=\dimen165
+\alignsep@=\dimen166
+\tagshift@=\dimen167
+\tagwidth@=\dimen168
+\totwidth@=\dimen169
+\lineht@=\dimen170
+\@envbody=\toks25
+\multlinegap=\skip54
+\multlinetaggap=\skip55
+\mathdisplay@stack=\toks26
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 ) (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/oberdiek\centernot.sty
@@ -261,8 +272,8 @@ Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
  (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/binhex\binhex.tex)
 \tx@Isdigit=\count292
 \tx@IsAlNum=\count293
-\tx@tA=\toks26
-\tx@tB=\toks27
+\tx@tA=\toks27
+\tx@tB=\toks28
 \tx@su=\read3
 
 amsthm NOT loaded
@@ -344,7 +355,7 @@ LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 \symlargesymbolsTXA=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `largesymbolsTXA' in version `bold'
 (Font)                  U/ntxexa/m/n --> U/ntxexa/b/n on input line 679.
-\tx@sbptoks=\toks28
+\tx@sbptoks=\toks29
 LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 902.
 LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 903.
 LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 904.
@@ -369,15 +380,15 @@ Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
 Package: fontawesome5-generic-helper 2022/05/02 v5.15.4 non-uTeX helper for fontawesome5
  (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesome5-mapping.def))) (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
 Package: microtype 2025/02/11 v3.2a Micro-typographical refinements (RS)
-\MT@toks=\toks29
-\MT@tempbox=\box55
+\MT@toks=\toks30
+\MT@tempbox=\box56
 \MT@count=\count294
 LaTeX Info: Redefining \noprotrusionifhmode on input line 1087.
 LaTeX Info: Redefining \leftprotrusion on input line 1088.
-\MT@prot@toks=\toks30
+\MT@prot@toks=\toks31
 LaTeX Info: Redefining \rightprotrusion on input line 1107.
 LaTeX Info: Redefining \textls on input line 1449.
-\MT@outer@kern=\dimen166
+\MT@outer@kern=\dimen171
 LaTeX Info: Redefining \microtypecontext on input line 2053.
 LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
 \MT@listname@count=\count295
@@ -385,7 +396,7 @@ LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
 File: microtype-pdftex.def 2025/02/11 v3.2a Definitions specific to pdftex (RS)
 LaTeX Info: Redefining \lsstyle on input line 944.
 LaTeX Info: Redefining \lslig on input line 944.
-\MT@outer@space=\skip54
+\MT@outer@space=\skip56
 )
 Package microtype Info: Loading configuration file microtype.cfg.
  (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
@@ -394,20 +405,20 @@ File: microtype.cfg 2025/02/11 v3.2a microtype main configuration file (RS)
 LaTeX Info: Redefining \microtypesetup on input line 3065.
 ) (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
 Package: ragged2e 2023/06/22 v3.6 ragged2e Package
-\CenteringLeftskip=\skip55
-\RaggedLeftLeftskip=\skip56
-\RaggedRightLeftskip=\skip57
-\CenteringRightskip=\skip58
-\RaggedLeftRightskip=\skip59
-\RaggedRightRightskip=\skip60
-\CenteringParfillskip=\skip61
-\RaggedLeftParfillskip=\skip62
-\RaggedRightParfillskip=\skip63
-\JustifyingParfillskip=\skip64
-\CenteringParindent=\skip65
-\RaggedLeftParindent=\skip66
-\RaggedRightParindent=\skip67
-\JustifyingParindent=\skip68
+\CenteringLeftskip=\skip57
+\RaggedLeftLeftskip=\skip58
+\RaggedRightLeftskip=\skip59
+\CenteringRightskip=\skip60
+\RaggedLeftRightskip=\skip61
+\RaggedRightRightskip=\skip62
+\CenteringParfillskip=\skip63
+\RaggedLeftParfillskip=\skip64
+\RaggedRightParfillskip=\skip65
+\JustifyingParfillskip=\skip66
+\CenteringParindent=\skip67
+\RaggedLeftParindent=\skip68
+\RaggedRightParindent=\skip69
+\JustifyingParindent=\skip70
 ) (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/textcase\textcase.sty
 Package: textcase 2025/02/16 v1.05 Text only upper/lower case changing (DPC)
 Package textcase Info: Defining Legacy names on input line 20.
@@ -419,7 +430,7 @@ Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
 \csq@qlevel=\count299
 \csq@maxlvl=\count300
 \csq@tshold=\count301
-\csq@ltx@everypar=\toks31
+\csq@ltx@everypar=\toks32
  (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
 File: csquotes.def 2024-04-04 v5.2o csquotes generic definitions (JAW)
 )
@@ -436,16 +447,16 @@ Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 Package: colortbl 2024/07/06 v1.0i Color table columns (DPC)
  (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
-\col@sep=\dimen167
-\ar@mcellbox=\box56
-\extrarowheight=\dimen168
-\NC@list=\toks32
-\extratabsurround=\skip69
-\backup@length=\skip70
-\ar@cellbox=\box57
+\col@sep=\dimen172
+\ar@mcellbox=\box57
+\extrarowheight=\dimen173
+\NC@list=\toks33
+\extratabsurround=\skip71
+\backup@length=\skip72
+\ar@cellbox=\box58
 )
-\everycr=\toks33
-\minrowclearance=\skip71
+\everycr=\toks34
+\minrowclearance=\skip73
 \rownum=\count305
 )
 
@@ -460,39 +471,39 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@cnth=\count306
 \Gm@cntv=\count307
 \c@Gm@tempcnt=\count308
-\Gm@bindingoffset=\dimen169
-\Gm@wd@mp=\dimen170
-\Gm@odd@mp=\dimen171
-\Gm@even@mp=\dimen172
-\Gm@layoutwidth=\dimen173
-\Gm@layoutheight=\dimen174
-\Gm@layouthoffset=\dimen175
-\Gm@layoutvoffset=\dimen176
-\Gm@dimlist=\toks34
+\Gm@bindingoffset=\dimen174
+\Gm@wd@mp=\dimen175
+\Gm@odd@mp=\dimen176
+\Gm@even@mp=\dimen177
+\Gm@layoutwidth=\dimen178
+\Gm@layoutheight=\dimen179
+\Gm@layouthoffset=\dimen180
+\Gm@layoutvoffset=\dimen181
+\Gm@dimlist=\toks35
  (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty
 Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
 ) (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
-\f@nch@headwidth=\skip72
-\f@nch@offset@elh=\skip73
-\f@nch@offset@erh=\skip74
-\f@nch@offset@olh=\skip75
-\f@nch@offset@orh=\skip76
-\f@nch@offset@elf=\skip77
-\f@nch@offset@erf=\skip78
-\f@nch@offset@olf=\skip79
-\f@nch@offset@orf=\skip80
-\f@nch@height=\skip81
-\f@nch@footalignment=\skip82
-\f@nch@widthL=\skip83
-\f@nch@widthC=\skip84
-\f@nch@widthR=\skip85
-\@temptokenb=\toks35
+\f@nch@headwidth=\skip74
+\f@nch@offset@elh=\skip75
+\f@nch@offset@erh=\skip76
+\f@nch@offset@olh=\skip77
+\f@nch@offset@orh=\skip78
+\f@nch@offset@elf=\skip79
+\f@nch@offset@erf=\skip80
+\f@nch@offset@olf=\skip81
+\f@nch@offset@orf=\skip82
+\f@nch@height=\skip83
+\f@nch@footalignment=\skip84
+\f@nch@widthL=\skip85
+\f@nch@widthC=\skip86
+\f@nch@widthR=\skip87
+\@temptokenb=\toks36
 ) (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/footmisc\footmisc.sty
 Package: footmisc 2024/12/24 v6.0g a miscellany of footnote facilities
-\FN@temptoken=\toks36
-\footnotemargin=\dimen177
-\@outputbox@depth=\dimen178
+\FN@temptoken=\toks37
+\footnotemargin=\dimen182
+\@outputbox@depth=\dimen183
 Package footmisc Info: Declaring symbol style bringhurst on input line 699.
 Package footmisc Info: Declaring symbol style chicago on input line 707.
 Package footmisc Info: Declaring symbol style wiley on input line 716.
@@ -501,11 +512,11 @@ Package footmisc Info: Declaring symbol style lamport* on input line 747.
 Package footmisc Info: Declaring symbol style lamport*-robust on input line 768.
 ) (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2025/02/06 v3.11 Customized lists
-\enitkv@toks@=\toks37
-\labelindent=\skip86
-\enit@outerparindent=\dimen179
-\enit@toks=\toks38
-\enit@inbox=\box58
+\enitkv@toks@=\toks38
+\labelindent=\skip88
+\enit@outerparindent=\dimen184
+\enit@toks=\toks39
+\enit@inbox=\box59
 \enit@count@id=\count309
 \enitdp@description=\count310
 ) (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
@@ -529,67 +540,67 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 106.
 )
-\Gin@req@height=\dimen180
-\Gin@req@width=\dimen181
+\Gin@req@height=\dimen185
+\Gin@req@width=\dimen186
 ) (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count311
 \calc@Bcount=\count312
-\calc@Adimen=\dimen182
-\calc@Bdimen=\dimen183
-\calc@Askip=\skip87
-\calc@Bskip=\skip88
+\calc@Adimen=\dimen187
+\calc@Bdimen=\dimen188
+\calc@Askip=\skip89
+\calc@Bskip=\skip90
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count313
-\calc@Cskip=\skip89
+\calc@Cskip=\skip91
 )
-\df@height=\skip90
-\df@length=\skip91
+\df@height=\skip92
+\df@length=\skip93
 ) (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
 Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
-\ESO@tempdima=\dimen184
-\ESO@tempdimb=\dimen185
+\ESO@tempdima=\dimen189
+\ESO@tempdimb=\dimen190
 ) (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen186
-\lightrulewidth=\dimen187
-\cmidrulewidth=\dimen188
-\belowrulesep=\dimen189
-\belowbottomsep=\dimen190
-\aboverulesep=\dimen191
-\abovetopsep=\dimen192
-\cmidrulesep=\dimen193
-\cmidrulekern=\dimen194
-\defaultaddspace=\dimen195
+\heavyrulewidth=\dimen191
+\lightrulewidth=\dimen192
+\cmidrulewidth=\dimen193
+\belowrulesep=\dimen194
+\belowbottomsep=\dimen195
+\aboverulesep=\dimen196
+\abovetopsep=\dimen197
+\cmidrulesep=\dimen198
+\cmidrulekern=\dimen199
+\defaultaddspace=\dimen256
 \@cmidla=\count314
 \@cmidlb=\count315
-\@aboverulesep=\dimen196
-\@belowrulesep=\dimen197
+\@aboverulesep=\dimen257
+\@belowrulesep=\dimen258
 \@thisruleclass=\count316
 \@lastruleclass=\count317
-\@thisrulewidth=\dimen198
+\@thisrulewidth=\dimen259
 ) (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
 Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
-\TX@col@width=\dimen199
-\TX@old@table=\dimen256
-\TX@old@col=\dimen257
-\TX@target=\dimen258
-\TX@delta=\dimen259
+\TX@col@width=\dimen260
+\TX@old@table=\dimen261
+\TX@old@col=\dimen262
+\TX@target=\dimen263
+\TX@delta=\dimen264
 \TX@cols=\count318
-\TX@ftn=\toks39
+\TX@ftn=\toks40
 ) (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
  (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
-\caption@tempdima=\dimen260
-\captionmargin=\dimen261
-\caption@leftmargin=\dimen262
-\caption@rightmargin=\dimen263
-\caption@width=\dimen264
-\caption@indent=\dimen265
-\caption@parindent=\dimen266
-\caption@hangindent=\dimen267
+\caption@tempdima=\dimen265
+\captionmargin=\dimen266
+\caption@leftmargin=\dimen267
+\caption@rightmargin=\dimen268
+\caption@width=\dimen269
+\caption@indent=\dimen270
+\caption@parindent=\dimen271
+\caption@hangindent=\dimen272
 Package caption Info: Standard document class detected.
 )
 \c@caption@flags=\count319
@@ -662,14 +673,14 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \blx@sectionciteorderinternal@0=\count362
 \blx@entrysetcounter=\count363
 \blx@biblioinstance=\count364
-\labelnumberwidth=\skip92
-\labelalphawidth=\skip93
-\biblabelsep=\skip94
-\bibitemsep=\skip95
-\bibnamesep=\skip96
-\bibinitsep=\skip97
-\bibparsep=\skip98
-\bibhang=\skip99
+\labelnumberwidth=\skip94
+\labelalphawidth=\skip95
+\biblabelsep=\skip96
+\bibitemsep=\skip97
+\bibnamesep=\skip98
+\bibinitsep=\skip99
+\bibparsep=\skip100
+\bibhang=\skip101
 \blx@bcfin=\read4
 \blx@bcfout=\write3
 \blx@langwohyphens=\language80
@@ -753,20 +764,20 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@savedoriglanguage=\count433
 \c@pageref=\count434
 \c@savedpageref=\count435
-\shorthandwidth=\skip100
-\shortjournalwidth=\skip101
-\shortserieswidth=\skip102
-\shorttitlewidth=\skip103
-\shortauthorwidth=\skip104
-\shorteditorwidth=\skip105
-\locallabelnumberwidth=\skip106
-\locallabelalphawidth=\skip107
-\localshorthandwidth=\skip108
-\localshortjournalwidth=\skip109
-\localshortserieswidth=\skip110
-\localshorttitlewidth=\skip111
-\localshortauthorwidth=\skip112
-\localshorteditorwidth=\skip113
+\shorthandwidth=\skip102
+\shortjournalwidth=\skip103
+\shortserieswidth=\skip104
+\shorttitlewidth=\skip105
+\shortauthorwidth=\skip106
+\shorteditorwidth=\skip107
+\locallabelnumberwidth=\skip108
+\locallabelalphawidth=\skip109
+\localshorthandwidth=\skip110
+\localshortjournalwidth=\skip111
+\localshortserieswidth=\skip112
+\localshorttitlewidth=\skip113
+\localshortauthorwidth=\skip114
+\localshorteditorwidth=\skip115
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
  (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
@@ -873,7 +884,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 ) (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
-\@linkdim=\dimen268
+\@linkdim=\dimen273
 \Hy@linkcounter=\count448
 \Hy@pagecounter=\count449
  (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
@@ -898,15 +909,15 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4424.
 \c@Hy@tempcnt=\count451
 LaTeX Info: Redefining \url on input line 4763.
-\XeTeXLinkMargin=\dimen269
+\XeTeXLinkMargin=\dimen274
  (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
  (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count452
-\Field@Width=\dimen270
-\Fld@charsize=\dimen271
+\Field@Width=\dimen275
+\Fld@charsize=\dimen276
 Package hyperref Info: Hyper figures OFF on input line 6042.
 Package hyperref Info: Link nesting OFF on input line 6047.
 Package hyperref Info: Hyper index ON on input line 6050.
@@ -938,7 +949,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
-\Hy@SectionHShift=\skip114
+\Hy@SectionHShift=\skip116
 ) (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/cleveref\cleveref.sty
 Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
 Package cleveref Info: `hyperref' support loaded on input line 2370.
@@ -969,9 +980,9 @@ Package hyperref Info: Option `unicode' set `true' on input line 251.
 \c@KWNum=\count462
 \c@KWTmp=\count463
 \c@StmpCtr=\count464
-\TopLine=\skip115
-\BottomLine=\skip116
-\HFRuleBox=\box59
+\TopLine=\skip117
+\BottomLine=\skip118
+\HFRuleBox=\box60
 Package newfloat Info: New float `flowchart' with options `fileext = low, name = Fluxograma' on input line 845.
 \c@flowchart=\count465
 \newfloat@ftype=\count466
@@ -989,10 +1000,10 @@ Package newfloat Info: New float `tabframed' with options `fileext = lod, name =
 \c@tabframed=\count469
 Package newfloat Info: float type `tabframed'=64 on input line 848.
 Package newfloat Info: \tabframedname is already defined on input line 848.
-\CaptionWidth=\skip117
-\AbstractMargin=\skip118
+\CaptionWidth=\skip119
+\AbstractMargin=\skip120
 )
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 41.
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 45.
  (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -1003,57 +1014,57 @@ Package csquotes Info: Redefining alias 'default' -> 'brazilian'.
  (fatec-template.aux)
 \openout1 = `fatec-template.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 41.
-LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line 41.
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 45.
+LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line 45.
  (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/newtx\omlntxmi.fd
 File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
 )
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 41.
-LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 41.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 45.
+LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 45.
  (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 41.
-LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 41.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 45.
+LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 45.
  (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 41.
-LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input line 41.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 45.
+LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input line 45.
  (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
  (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count470
-\scratchdimen=\dimen272
-\scratchbox=\box60
+\scratchdimen=\dimen277
+\scratchbox=\box61
 \nofMPsegments=\count471
 \nofMParguments=\count472
-\everyMPshowfont=\toks40
+\everyMPshowfont=\toks41
 \MPscratchCnt=\count473
-\MPscratchDim=\dimen273
+\MPscratchDim=\dimen278
 \MPnumerator=\count474
 \makeMPintoPDFobject=\count475
-\everyMPtoPDFconversion=\toks41
+\everyMPtoPDFconversion=\toks42
 ) (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
  (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
@@ -1068,20 +1079,20 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 \c@mv@tabular=\count476
 \c@mv@boldtabular=\count477
-LaTeX Info: Command `\dddot' is already robust on input line 41.
-LaTeX Info: Command `\ddddot' is already robust on input line 41.
-LaTeX Info: Redefining \microtypecontext on input line 41.
-Package microtype Info: Applying patch `item' on input line 41.
-Package microtype Info: Applying patch `toc' on input line 41.
-Package microtype Info: Applying patch `verbatim' on input line 41.
-LaTeX Info: Redefining \microtypesetup on input line 41.
+LaTeX Info: Command `\dddot' is already robust on input line 45.
+LaTeX Info: Command `\ddddot' is already robust on input line 45.
+LaTeX Info: Redefining \microtypecontext on input line 45.
+Package microtype Info: Applying patch `item' on input line 45.
+Package microtype Info: Applying patch `toc' on input line 45.
+Package microtype Info: Applying patch `verbatim' on input line 45.
+LaTeX Info: Redefining \microtypesetup on input line 45.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 41.
+LaTeX Info: Redefining \showhyphens on input line 45.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1189,120 +1200,121 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'fatec-template.bbl' found.
- (fatec-template.bbl)
-Package biblatex Info: Reference section=0 on input line 41.
-Package biblatex Info: Reference segment=0 on input line 41.
-Package hyperref Info: Link coloring ON on input line 41.
+ (fatec-template.bbl
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'ESTADAO2020':
+(biblatex)                - url entry 'ESTADAO2020' (fatec-article.bib): Invalid format '2025-4' of date field 'urldate' - ignoring.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'IBGE2022':
+(biblatex)                - url entry 'IBGE2022' (fatec-article.bib): Invalid format '2025-4' of date field 'urldate' - ignoring.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'RochaFerreira2022':
+(biblatex)                - url entry 'RochaFerreira2022' (fatec-article.bib): Invalid format '2025-4' of date field 'urldate' - ignoring.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'ROCKCONTENT2023':
+(biblatex)                - url entry 'ROCKCONTENT2023' (fatec-article.bib): Invalid format '2025-4' of date field 'urldate' - ignoring.
+
+)
+Package biblatex Info: Reference section=0 on input line 45.
+Package biblatex Info: Reference segment=0 on input line 45.
+Package hyperref Info: Link coloring ON on input line 45.
  (fatec-template.out) (fatec-template.out)
 \@outlinefile=\write4
 \openout4 = `fatec-template.out'.
 
-Package cleveref Info: loaded `brazilian' language definitions on input line 41.
-Package cleveref Info: loaded `brazilian' language definitions on input line 41.
-Package cleveref Info: loaded `english' language definitions on input line 41.
-Package cleveref Info: loaded `brazilian' language definitions on input line 41.
-LaTeX Font Info:    Trying to load font information for OT1+minntx on input line 41.
+Package cleveref Info: loaded `brazilian' language definitions on input line 45.
+Package cleveref Info: loaded `brazilian' language definitions on input line 45.
+Package cleveref Info: loaded `english' language definitions on input line 45.
+Package cleveref Info: loaded `brazilian' language definitions on input line 45.
+LaTeX Font Info:    Trying to load font information for OT1+minntx on input line 45.
  (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ot1minntx.fd
 File: ot1minntx.fd 2023/09/09 v1.1 font definition file for OT1/minntx
 )
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
-(Font)              scaled to size 12.0pt on input line 41.
+(Font)              scaled to size 12.0pt on input line 45.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `minntx' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
-(Font)              scaled to size 8.8pt on input line 41.
+(Font)              scaled to size 8.8pt on input line 45.
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
-(Font)              scaled to size 6.6pt on input line 41.
+(Font)              scaled to size 6.6pt on input line 45.
 LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
-(Font)              scaled to size 12.0pt on input line 41.
+(Font)              scaled to size 12.0pt on input line 45.
 LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
-(Font)              scaled to size 8.8pt on input line 41.
+(Font)              scaled to size 8.8pt on input line 45.
 LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
-(Font)              scaled to size 6.6pt on input line 41.
+(Font)              scaled to size 6.6pt on input line 45.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 12.0pt on input line 41.
+(Font)              scaled to size 12.0pt on input line 45.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 8.8pt on input line 41.
+(Font)              scaled to size 8.8pt on input line 45.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 6.6pt on input line 41.
+(Font)              scaled to size 6.6pt on input line 45.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 12.0pt on input line 41.
+(Font)              scaled to size 12.0pt on input line 45.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 8.8pt on input line 41.
+(Font)              scaled to size 8.8pt on input line 45.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 6.6pt on input line 41.
-LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 41.
+(Font)              scaled to size 6.6pt on input line 45.
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 45.
  (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxmia.fd
 File: untxmia.fd 2024/04/09 Fontinst v1.933 font definitions for U/ntxmia.
 )
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 12.0pt on input line 41.
+(Font)              scaled to size 12.0pt on input line 45.
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 8.8pt on input line 41.
+(Font)              scaled to size 8.8pt on input line 45.
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 6.6pt on input line 41.
-LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 41.
+(Font)              scaled to size 6.6pt on input line 45.
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 45.
  (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsym.fd
 File: untxsym.fd 2023/08/16 Fontinst v1.933 font definitions for U/ntxsym.
 )
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 12.0pt on input line 41.
+(Font)              scaled to size 12.0pt on input line 45.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 8.8pt on input line 41.
+(Font)              scaled to size 8.8pt on input line 45.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 6.6pt on input line 41.
-LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 41.
+(Font)              scaled to size 6.6pt on input line 45.
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 45.
  (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 12.0pt on input line 41.
+(Font)              scaled to size 12.0pt on input line 45.
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 8.8pt on input line 41.
+(Font)              scaled to size 8.8pt on input line 45.
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 6.6pt on input line 41.
+(Font)              scaled to size 6.6pt on input line 45.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 12.0pt on input line 41.
+(Font)              scaled to size 12.0pt on input line 45.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 8.8pt on input line 41.
+(Font)              scaled to size 8.8pt on input line 45.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 6.6pt on input line 41.
-Package cleveref Info: loaded `brazilian' language definitions on input line 41.
-Package cleveref Info: loaded `brazilian' language definitions on input line 41.
-Package cleveref Info: loaded `english' language definitions on input line 41.
-Package cleveref Info: loaded `brazilian' language definitions on input line 41.
+(Font)              scaled to size 6.6pt on input line 45.
+Package cleveref Info: loaded `brazilian' language definitions on input line 45.
+Package cleveref Info: loaded `brazilian' language definitions on input line 45.
+Package cleveref Info: loaded `english' language definitions on input line 45.
+Package cleveref Info: loaded `brazilian' language definitions on input line 45.
  (Topicos/introducao.tex
-Underfull \hbox (badness 10000) in paragraph at lines 2--3
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
-
- []
-
-
-
-<./Illustrations/fatec.jpg, id=111, 401.5pt x 401.5pt>
+<./Illustrations/fatec.jpg, id=113, 401.5pt x 401.5pt>
 File: ./Illustrations/fatec.jpg Graphic file (type jpg)
 <use ./Illustrations/fatec.jpg>
-Package pdftex.def Info: ./Illustrations/fatec.jpg  used on input line 5.
+Package pdftex.def Info: ./Illustrations/fatec.jpg  used on input line 4.
 (pdftex.def)             Requested size: 99.58444pt x 99.58464pt.
 [1{C:/Users/DELL/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}
 
- <./Illustrations/fatec.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 6--7
-
- []
-
-)
-Underfull \hbox (badness 10000) in paragraph at lines 8--58
-
- []
-
-(Topicos/objetivo.tex
+ <./Illustrations/fatec.jpg>]) (Topicos/objetivo.tex
 LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 5.
  (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmss.fd
 File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -1322,14 +1334,11 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\cite' on input line 4.
 
-<Illustrations/99Freelas.jpg, id=136, 963.6pt x 479.54156pt>
+<Illustrations/99Freelas.jpg, id=145, 963.6pt x 479.54156pt>
 File: Illustrations/99Freelas.jpg Graphic file (type jpg)
 <use Illustrations/99Freelas.jpg>
 Package pdftex.def Info: Illustrations/99Freelas.jpg  used on input line 10.
 (pdftex.def)             Requested size: 385.43317pt x 191.81322pt.
-
-
-[3 <./Illustrations/99Freelas.jpg>]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 15.
@@ -1338,11 +1347,14 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\cite' on input line 15.
 
-<Illustrations/GetNinjas.jpg, id=146, 963.6pt x 444.15938pt>
+<Illustrations/GetNinjas.jpg, id=148, 963.6pt x 444.15938pt>
 File: Illustrations/GetNinjas.jpg Graphic file (type jpg)
 <use Illustrations/GetNinjas.jpg>
 Package pdftex.def Info: Illustrations/GetNinjas.jpg  used on input line 21.
 (pdftex.def)             Requested size: 385.43317pt x 177.6606pt.
+
+
+[3 <./Illustrations/99Freelas.jpg>]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 26.
@@ -1354,7 +1366,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 [4 <./Illustrations/GetNinjas.jpg>]
-<Illustrations/Fiverr.jpg, id=156, 963.6pt x 478.78876pt>
+<Illustrations/Fiverr.jpg, id=165, 963.6pt x 478.78876pt>
 File: Illustrations/Fiverr.jpg Graphic file (type jpg)
 <use Illustrations/Fiverr.jpg>
 Package pdftex.def Info: Illustrations/Fiverr.jpg  used on input line 34.
@@ -1376,7 +1388,7 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\cite' on input line 42.
 
-<Illustrations/Oliveira12002.jpg, id=161, 432.11438pt x 445.665pt>
+<Illustrations/Oliveira12002.jpg, id=170, 432.11438pt x 445.665pt>
 File: Illustrations/Oliveira12002.jpg Graphic file (type jpg)
 <use Illustrations/Oliveira12002.jpg>
 Package pdftex.def Info: Illustrations/Oliveira12002.jpg  used on input line 48.
@@ -1406,76 +1418,95 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
 [7])
 
 Package biblatex Warning: No driver for 'url'.
-(biblatex)                Using fallback driver on input line 81.
+(biblatex)                Using fallback driver on input line 85.
 
-Package cleveref Info: loaded `brazilian' language definitions on input line 81.
-Package cleveref Info: loaded `brazilian' language definitions on input line 81.
-Package cleveref Info: loaded `brazilian' language definitions on input line 81.
-Package cleveref Info: loaded `brazilian' language definitions on input line 81.
-
-Package biblatex Warning: No driver for 'url'.
-(biblatex)                Using fallback driver on input line 81.
-
-Package cleveref Info: loaded `brazilian' language definitions on input line 81.
-Package cleveref Info: loaded `brazilian' language definitions on input line 81.
-Package cleveref Info: loaded `brazilian' language definitions on input line 81.
-Package cleveref Info: loaded `brazilian' language definitions on input line 81.
+Package cleveref Info: loaded `brazilian' language definitions on input line 85.
+Package cleveref Info: loaded `brazilian' language definitions on input line 85.
+Package cleveref Info: loaded `brazilian' language definitions on input line 85.
+Package cleveref Info: loaded `brazilian' language definitions on input line 85.
 
 Package biblatex Warning: No driver for 'url'.
-(biblatex)                Using fallback driver on input line 81.
+(biblatex)                Using fallback driver on input line 85.
 
-Package cleveref Info: loaded `brazilian' language definitions on input line 81.
+Package cleveref Info: loaded `brazilian' language definitions on input line 85.
+Package cleveref Info: loaded `brazilian' language definitions on input line 85.
 
 
 [8]
-Package cleveref Info: loaded `brazilian' language definitions on input line 81.
-Package cleveref Info: loaded `brazilian' language definitions on input line 81.
-Package cleveref Info: loaded `brazilian' language definitions on input line 81.
-
 
 Package biblatex Warning: No driver for 'url'.
-(biblatex)                Using fallback driver on input line 81.
+(biblatex)                Using fallback driver on input line 85.
 
-Package cleveref Info: loaded `brazilian' language definitions on input line 81.
-Package cleveref Info: loaded `brazilian' language definitions on input line 81.
-Package cleveref Info: loaded `brazilian' language definitions on input line 81.
-Package cleveref Info: loaded `brazilian' language definitions on input line 81.
-Package cleveref Info: loaded `brazilian' language definitions on input line 81.
-Package cleveref Info: loaded `brazilian' language definitions on input line 81.
-Package cleveref Info: loaded `brazilian' language definitions on input line 81.
-Package cleveref Info: loaded `brazilian' language definitions on input line 81.
+Package cleveref Info: loaded `brazilian' language definitions on input line 85.
+Package cleveref Info: loaded `brazilian' language definitions on input line 85.
+Package cleveref Info: loaded `brazilian' language definitions on input line 85.
+Package cleveref Info: loaded `brazilian' language definitions on input line 85.
+
+Package biblatex Warning: No driver for 'url'.
+(biblatex)                Using fallback driver on input line 85.
+
+Package cleveref Info: loaded `brazilian' language definitions on input line 85.
+Package cleveref Info: loaded `brazilian' language definitions on input line 85.
+Package cleveref Info: loaded `brazilian' language definitions on input line 85.
+Package cleveref Info: loaded `brazilian' language definitions on input line 85.
+
+Package biblatex Warning: No driver for 'url'.
+(biblatex)                Using fallback driver on input line 85.
+
+Package cleveref Info: loaded `brazilian' language definitions on input line 85.
+Package cleveref Info: loaded `brazilian' language definitions on input line 85.
+Package cleveref Info: loaded `brazilian' language definitions on input line 85.
+Package cleveref Info: loaded `brazilian' language definitions on input line 85.
+
+Package biblatex Warning: No driver for 'url'.
+(biblatex)                Using fallback driver on input line 85.
+
+Package cleveref Info: loaded `brazilian' language definitions on input line 85.
+Package cleveref Info: loaded `brazilian' language definitions on input line 85.
+
+Package biblatex Warning: No driver for 'url'.
+(biblatex)                Using fallback driver on input line 85.
+
+Package cleveref Info: loaded `brazilian' language definitions on input line 85.
+Package cleveref Info: loaded `brazilian' language definitions on input line 85.
+Package cleveref Info: loaded `brazilian' language definitions on input line 85.
+Package cleveref Info: loaded `brazilian' language definitions on input line 85.
 
 
 [9] (fatec-template.aux
-Package cleveref Info: loaded `brazilian' language definitions on input line 9.
-Package cleveref Info: loaded `brazilian' language definitions on input line 10.
 Package cleveref Info: loaded `brazilian' language definitions on input line 11.
-Package cleveref Info: loaded `english' language definitions on input line 12.
+Package cleveref Info: loaded `brazilian' language definitions on input line 12.
 Package cleveref Info: loaded `brazilian' language definitions on input line 13.
-Package cleveref Info: loaded `brazilian' language definitions on input line 14.
+Package cleveref Info: loaded `english' language definitions on input line 14.
 Package cleveref Info: loaded `brazilian' language definitions on input line 15.
-Package cleveref Info: loaded `english' language definitions on input line 16.
+Package cleveref Info: loaded `brazilian' language definitions on input line 16.
 Package cleveref Info: loaded `brazilian' language definitions on input line 17.
-Package cleveref Info: loaded `brazilian' language definitions on input line 92.
-Package cleveref Info: loaded `brazilian' language definitions on input line 93.
-Package cleveref Info: loaded `brazilian' language definitions on input line 94.
-Package cleveref Info: loaded `brazilian' language definitions on input line 95.
-Package cleveref Info: loaded `brazilian' language definitions on input line 97.
-Package cleveref Info: loaded `brazilian' language definitions on input line 98.
-Package cleveref Info: loaded `brazilian' language definitions on input line 99.
-Package cleveref Info: loaded `brazilian' language definitions on input line 100.
+Package cleveref Info: loaded `english' language definitions on input line 18.
+Package cleveref Info: loaded `brazilian' language definitions on input line 19.
+Package cleveref Info: loaded `brazilian' language definitions on input line 101.
 Package cleveref Info: loaded `brazilian' language definitions on input line 102.
 Package cleveref Info: loaded `brazilian' language definitions on input line 103.
 Package cleveref Info: loaded `brazilian' language definitions on input line 104.
-Package cleveref Info: loaded `brazilian' language definitions on input line 105.
+Package cleveref Info: loaded `brazilian' language definitions on input line 106.
 Package cleveref Info: loaded `brazilian' language definitions on input line 107.
-Package cleveref Info: loaded `brazilian' language definitions on input line 108.
 Package cleveref Info: loaded `brazilian' language definitions on input line 109.
 Package cleveref Info: loaded `brazilian' language definitions on input line 110.
+Package cleveref Info: loaded `brazilian' language definitions on input line 111.
 Package cleveref Info: loaded `brazilian' language definitions on input line 112.
-Package cleveref Info: loaded `brazilian' language definitions on input line 113.
+Package cleveref Info: loaded `brazilian' language definitions on input line 114.
 Package cleveref Info: loaded `brazilian' language definitions on input line 115.
 Package cleveref Info: loaded `brazilian' language definitions on input line 116.
+Package cleveref Info: loaded `brazilian' language definitions on input line 117.
+Package cleveref Info: loaded `brazilian' language definitions on input line 119.
+Package cleveref Info: loaded `brazilian' language definitions on input line 120.
+Package cleveref Info: loaded `brazilian' language definitions on input line 122.
+Package cleveref Info: loaded `brazilian' language definitions on input line 123.
+Package cleveref Info: loaded `brazilian' language definitions on input line 125.
+Package cleveref Info: loaded `brazilian' language definitions on input line 126.
+Package cleveref Info: loaded `brazilian' language definitions on input line 128.
+Package cleveref Info: loaded `brazilian' language definitions on input line 129.
+Package cleveref Info: loaded `brazilian' language definitions on input line 131.
+Package cleveref Info: loaded `brazilian' language definitions on input line 132.
 )
  ***********
 LaTeX2e <2024-11-01> patch level 2
@@ -1488,17 +1519,17 @@ Package logreq Info: Writing requests to 'fatec-template.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34517 strings out of 473522
- 625074 string characters out of 5715093
- 1625219 words of memory out of 5000000
- 57077 multiletter control sequences out of 15000+600000
- 609349 words of font info for 152 fonts, out of 8000000 for 9000
+ 34824 strings out of 473522
+ 629563 string characters out of 5715093
+ 1634729 words of memory out of 5000000
+ 57374 multiletter control sequences out of 15000+600000
+ 609729 words of font info for 154 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  87i,19n,131p,4515b,4566s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss9.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso12.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on fatec-template.pdf (9 pages, 635505 bytes).
+Output written on fatec-template.pdf (9 pages, 642284 bytes).
 PDF statistics:
- 240 PDF objects out of 1000 (max. 8388607)
- 52 named destinations out of 1000 (max. 500000)
- 25842 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 260 PDF objects out of 1000 (max. 8388607)
+ 55 named destinations out of 1000 (max. 500000)
+ 27890 words of extra memory for PDF output out of 29859 (max. 10000000)
 
