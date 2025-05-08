@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber fatec-template"] 1744224135.98143 "fatec-template.bcf" "fatec-template.bbl" "fatec-template" 1744224146.38637 0
-  "fatec-template.bcf" 1744224145 113594 6ead2ce027f19911aae584e1d969ac13 "pdflatex"
+["biber fatec-template"] 1746734114.95257 "fatec-template.bcf" "fatec-template.bbl" "fatec-template" 1746734216.00802 0
+  "fatec-template.bcf" 1746734215 113594 6ead2ce027f19911aae584e1d969ac13 "pdflatex"
   (generated)
   "fatec-template.bbl"
   "fatec-template.blg"
   (rewritten before read)
-["pdflatex"] 1744224139.98467 "d:/Users/DELL/Desktop/PI-Documentos/f299-template-pi-artifacts/fatec-template.tex" "fatec-template.pdf" "fatec-template" 1744224146.38746 0
-  "C:/Users/DELL/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1740416063 122199 f0a029dcadf437d1491ad2875c164ac4 ""
+["pdflatex"] 1746734207.45314 "d:/Users/DELL/Desktop/PI-Documentos/f299-template-pi-artifacts/fatec-template.tex" "fatec-template.pdf" "fatec-template" 1746734216.01379 0
+  "C:/Users/DELL/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1744297675 122199 f0a029dcadf437d1491ad2875c164ac4 ""
   "C:/Users/DELL/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1740414450 12015340 27918ccd41e6890829da98585036da14 ""
   "C:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
   "C:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecrm1200.tfm" 993062126 3152 4850ff0163852b7fab34bd55e1197f28 ""
@@ -173,17 +173,21 @@
   "C:/Users/DELL/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.sty" 1585221260 8510 7803f78066c4f9d008405191a4b43073 ""
   "C:/Users/DELL/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
   "C:/Users/DELL/AppData/Local/Programs/MiKTeX/tex/latex/xurl/xurl.sty" 1641733940 4675 e4b8c405820368c2dfb03526e16d725a ""
-  "Logos/caso_de_uso_1.jpg" 1744222944 48638 c220a73930662b6564297bc0924635fe ""
-  "Logos/diagrama_objetos.png" 1744222944 7415 4d1e7a7efd0c5673c163d64716af18ff ""
-  "Logos/diagramaclasse.png" 1744222945 99252 2a4f7d20135db955f4b7d4812d8f67b1 ""
-  "d:/Users/DELL/Desktop/PI-Documentos/f299-template-pi-artifacts/fatec-template.tex" 1744222945 2523 788199aef27ae64c2040e7558017a614 ""
+  "d:/Users/DELL/Desktop/PI-Documentos/f299-template-pi-artifacts/fatec-template.tex" 1746734116 5713 7445147db2b578fa30bd91bcf7716490 ""
   "fatec-article.sty" 1744222945 40662 bf9c8d6e851cda1aa131bd67402f9dad ""
-  "fatec-template.aux" 1744224145 2327 7af50f5a196752aaa8372451a18ebd52 "pdflatex"
-  "fatec-template.bbl" 1744224139 0 d41d8cd98f00b204e9800998ecf8427e "biber fatec-template"
-  "fatec-template.out" 1744224145 666 5e2f27ce56be21f36f6d6cf9e544c0b2 "pdflatex"
-  "fatec-template.run.xml" 1744224145 2533 ddd91e20767af94d459033942f5b644d "pdflatex"
-  "fatec-template.tex" 1744222945 2523 788199aef27ae64c2040e7558017a614 ""
-  "fatec-template.toc" 1744224145 396 ae7c67ebfec545422d516619a2f267ae "pdflatex"
+  "fatec-template.aux" 1746734214 4004 75d399cba484d1cf56f099586d4480ed "pdflatex"
+  "fatec-template.bbl" 1746734198 0 d41d8cd98f00b204e9800998ecf8427e "biber fatec-template"
+  "fatec-template.out" 1746734215 1425 c9e9ce8fc8036722b18af1d7ffbc48a5 "pdflatex"
+  "fatec-template.run.xml" 1746734215 2533 ddd91e20767af94d459033942f5b644d "pdflatex"
+  "fatec-template.tex" 1746734116 5713 7445147db2b578fa30bd91bcf7716490 ""
+  "fatec-template.toc" 1746734215 675 063b6492d6cce7354373dfc9ea461bf8 "pdflatex"
+  "fotos/Diagrama de Infraestrutura de Rede PI.png" 1746724757 137746 907f076e4ff029956f597a981e186d31 ""
+  "fotos/DiagramaObjetopi.png" 1746733676 93811 d8a7f2c99c2c48a808bd8c15c06e3d05 ""
+  "fotos/Modelo lógico banco de dados.png" 1746725295 59945 9b7f99f3dd0e393e83148a2a24c58428 ""
+  "fotos/canvas.png" 1746724742 85515 b38a641236a98a547f348d4750dca6f1 ""
+  "fotos/casos de uso.png" 1746724748 147462 61c3b9a79cc4ce2d1c3929c353ae0aba ""
+  "fotos/diagramaClassePI.png" 1746733154 123965 afe1adb90533b0226a1fc238207b5c94 ""
+  "fotos/modelo conceitual banco de dados.png" 1746725290 55829 58ac26c736891743beb35e23298e913a ""
   (generated)
   "fatec-template.aux"
   "fatec-template.bcf"

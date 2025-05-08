@@ -404,27 +404,55 @@ INPUT C:\Users\DELL\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexa.
 INPUT C:\Users\DELL\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
 OUTPUT fatec-template.toc
 INPUT C:\Users\DELL\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmssbx10.tfm
-INPUT .\Logos\caso_de_uso_1.jpg
-INPUT .\Logos\caso_de_uso_1.jpg
-INPUT .\Logos\caso_de_uso_1.jpg
-INPUT .\Logos\caso_de_uso_1.jpg
-INPUT .\Logos\caso_de_uso_1.jpg
-INPUT .\Logos\caso_de_uso_1.jpg
-INPUT .\Logos\caso_de_uso_1.jpg
-INPUT .\Logos\diagramaclasse.png
-INPUT .\Logos\diagramaclasse.png
-INPUT .\Logos\diagramaclasse.png
-INPUT .\Logos\diagramaclasse.png
-INPUT .\Logos\diagramaclasse.png
-INPUT .\Logos\diagramaclasse.png
-INPUT .\Logos\diagramaclasse.png
-INPUT .\Logos\diagrama_objetos.png
-INPUT .\Logos\diagrama_objetos.png
-INPUT .\Logos\diagrama_objetos.png
-INPUT .\Logos\diagrama_objetos.png
-INPUT .\Logos\diagrama_objetos.png
-INPUT .\Logos\diagrama_objetos.png
-INPUT .\Logos\diagrama_objetos.png
+INPUT .\fotos\casos de uso.png
+INPUT .\fotos\casos de uso.png
+INPUT .\fotos\casos de uso.png
+INPUT .\fotos\casos de uso.png
+INPUT .\fotos\casos de uso.png
+INPUT .\fotos\casos de uso.png
+INPUT .\fotos\casos de uso.png
+INPUT .\fotos\diagramaClassePI.png
+INPUT .\fotos\diagramaClassePI.png
+INPUT .\fotos\diagramaClassePI.png
+INPUT .\fotos\diagramaClassePI.png
+INPUT .\fotos\diagramaClassePI.png
+INPUT .\fotos\diagramaClassePI.png
+INPUT .\fotos\diagramaClassePI.png
+INPUT .\fotos\DiagramaObjetopi.png
+INPUT .\fotos\DiagramaObjetopi.png
+INPUT .\fotos\DiagramaObjetopi.png
+INPUT .\fotos\DiagramaObjetopi.png
+INPUT .\fotos\DiagramaObjetopi.png
+INPUT .\fotos\DiagramaObjetopi.png
+INPUT .\fotos\DiagramaObjetopi.png
+INPUT .\fotos\Diagrama de Infraestrutura de Rede PI.png
+INPUT .\fotos\Diagrama de Infraestrutura de Rede PI.png
+INPUT .\fotos\Diagrama de Infraestrutura de Rede PI.png
+INPUT .\fotos\Diagrama de Infraestrutura de Rede PI.png
+INPUT .\fotos\Diagrama de Infraestrutura de Rede PI.png
+INPUT .\fotos\Diagrama de Infraestrutura de Rede PI.png
+INPUT .\fotos\Diagrama de Infraestrutura de Rede PI.png
+INPUT .\fotos\modelo conceitual banco de dados.png
+INPUT .\fotos\modelo conceitual banco de dados.png
+INPUT .\fotos\modelo conceitual banco de dados.png
+INPUT .\fotos\modelo conceitual banco de dados.png
+INPUT .\fotos\modelo conceitual banco de dados.png
+INPUT .\fotos\modelo conceitual banco de dados.png
+INPUT .\fotos\modelo conceitual banco de dados.png
+INPUT .\fotos\Modelo lógico banco de dados.png
+INPUT .\fotos\Modelo lógico banco de dados.png
+INPUT .\fotos\Modelo lógico banco de dados.png
+INPUT .\fotos\Modelo lógico banco de dados.png
+INPUT .\fotos\Modelo lógico banco de dados.png
+INPUT .\fotos\Modelo lógico banco de dados.png
+INPUT .\fotos\Modelo lógico banco de dados.png
+INPUT .\fotos\canvas.png
+INPUT .\fotos\canvas.png
+INPUT .\fotos\canvas.png
+INPUT .\fotos\canvas.png
+INPUT .\fotos\canvas.png
+INPUT .\fotos\canvas.png
+INPUT .\fotos\canvas.png
 INPUT fatec-template.aux
 INPUT .\fatec-template.out
 INPUT .\fatec-template.out
