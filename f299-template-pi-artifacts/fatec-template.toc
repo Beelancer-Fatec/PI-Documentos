@@ -4,10 +4,16 @@
 \babel@toc {english}{}\relax 
 \babel@toc {brazilian}{}\relax 
 \setlength {\parskip }{\z@ plus\p@ }\listsfontsize 
-\contentsline {section}{Diagrama de Caso de Uso}{3}{section*.3}%
-\contentsline {section}{Diagrama de Classes}{4}{section*.5}%
-\contentsline {section}{Diagrama de Objetos}{5}{section*.7}%
-\contentsline {section}{Diagrama de Infraestrutura de Rede}{6}{section*.9}%
-\contentsline {section}{Modelo Conceitual de Banco de Dados}{7}{section*.11}%
-\contentsline {section}{Modelo Lógico de Banco de Dados}{8}{section*.13}%
-\contentsline {section}{Canvas}{9}{section*.16}%
+\contentsline {section}{Diagrama UML}{3}{section*.2}%
+\contentsline {subsection}{Diagrama de Caso de Uso}{3}{section*.3}%
+\contentsline {subsection}{Diagrama de Classes}{4}{section*.5}%
+\contentsline {subsection}{Diagrama de Objetos}{5}{section*.7}%
+\contentsline {section}{Infraestrutura de Rede}{6}{section*.9}%
+\contentsline {subsection}{Diagrama de Infraestrutura de Rede}{6}{section*.10}%
+\contentsline {section}{Modelos de Banco de Dados}{7}{section*.12}%
+\contentsline {subsection}{Modelo Conceitual de Banco de Dados}{7}{section*.13}%
+\contentsline {subsection}{Modelo Lógico de Banco de Dados}{8}{section*.15}%
+\contentsline {subsection}{Modelo Lógico noSQL}{9}{section*.17}%
+\contentsline {section}{Modelo de Negócios}{10}{section*.19}%
+\contentsline {subsection}{Canvas}{10}{section*.20}%
+\contentsline {subsection}{Análise SWOT}{11}{section*.22}%

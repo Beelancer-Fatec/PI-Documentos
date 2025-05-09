@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.2) (preloaded format=pdflatex 2025.2.24)  8 MAY 2025 16:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.2) (preloaded format=pdflatex 2025.2.24)  9 MAY 2025 16:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1022,6 +1022,18 @@ LaTeX Warning: Label `fig:diagrama-objetos' multiply defined.
 
 LaTeX Warning: Label `fig:diagrama-objetos@cref' multiply defined.
 
+
+LaTeX Warning: Label `fig:diagrama-objetos' multiply defined.
+
+
+LaTeX Warning: Label `fig:diagrama-objetos@cref' multiply defined.
+
+
+LaTeX Warning: Label `fig:diagrama-objetos' multiply defined.
+
+
+LaTeX Warning: Label `fig:diagrama-objetos@cref' multiply defined.
+
 )
 \openout1 = `fatec-template.aux'.
 
@@ -1313,67 +1325,91 @@ LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
 
 
 [2]
-<fotos/casos de uso.png, id=59, 993.7125pt x 582.7371pt>
+<fotos/casos de uso.png, id=89, 993.7125pt x 582.7371pt>
 File: fotos/casos de uso.png Graphic file (type png)
 <use fotos/casos de uso.png>
-Package pdftex.def Info: fotos/casos de uso.png  used on input line 43.
+Package pdftex.def Info: fotos/casos de uso.png  used on input line 44.
 (pdftex.def)             Requested size: 532.0695pt x 312.02359pt.
 
-Overfull \hbox (48.37263pt too wide) in paragraph at lines 43--44
+Overfull \hbox (48.37263pt too wide) in paragraph at lines 44--45
  [][] 
  []
 
 
 
 [3 <./fotos/casos de uso.png>]
-<fotos/diagramaClassePI.png, id=67, 663.47874pt x 830.10126pt>
-File: fotos/diagramaClassePI.png Graphic file (type png)
-<use fotos/diagramaClassePI.png>
-Package pdftex.def Info: fotos/diagramaClassePI.png  used on input line 60.
-(pdftex.def)             Requested size: 386.95897pt x 484.13167pt.
+<fotos/DiagramaClassesPI.png, id=96, 663.47874pt x 831.105pt>
+File: fotos/DiagramaClassesPI.png Graphic file (type png)
+<use fotos/DiagramaClassesPI.png>
+Package pdftex.def Info: fotos/DiagramaClassesPI.png  used on input line 61.
+(pdftex.def)             Requested size: 386.95897pt x 484.71706pt.
+LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 66.
+ (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmss.fd
+File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmss' (encoding: TS1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
 
 
-[4 <./fotos/diagramaClassePI.png>]
-<fotos/DiagramaObjetopi.png, id=75, 643.40375pt x 643.40375pt>
+[4{C:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc} <./fotos/DiagramaClassesPI.png>]
+<fotos/DiagramaObjetopi.png, id=105, 643.40375pt x 643.40375pt>
 File: fotos/DiagramaObjetopi.png Graphic file (type png)
 <use fotos/DiagramaObjetopi.png>
-Package pdftex.def Info: fotos/DiagramaObjetopi.png  used on input line 77.
+Package pdftex.def Info: fotos/DiagramaObjetopi.png  used on input line 84.
 (pdftex.def)             Requested size: 386.95897pt x 386.96808pt.
 
 
 [5 <./fotos/DiagramaObjetopi.png>]
-<fotos/Diagrama de Infraestrutura de Rede PI.png, id=82, 1155.31625pt x 736.7525pt>
+<fotos/Diagrama de Infraestrutura de Rede PI.png, id=112, 1155.31625pt x 736.7525pt>
 File: fotos/Diagrama de Infraestrutura de Rede PI.png Graphic file (type png)
 <use fotos/Diagrama de Infraestrutura de Rede PI.png>
-Package pdftex.def Info: fotos/Diagrama de Infraestrutura de Rede PI.png  used on input line 94.
+Package pdftex.def Info: fotos/Diagrama de Infraestrutura de Rede PI.png  used on input line 106.
 (pdftex.def)             Requested size: 483.69687pt x 308.45589pt.
 
 
 [6 <./fotos/Diagrama de Infraestrutura de Rede PI.png>]
-<fotos/modelo conceitual banco de dados.png, id=89, 1320.935pt x 674.52pt>
+<fotos/modelo conceitual banco de dados.png, id=119, 1320.935pt x 674.52pt>
 File: fotos/modelo conceitual banco de dados.png Graphic file (type png)
 <use fotos/modelo conceitual banco de dados.png>
-Package pdftex.def Info: fotos/modelo conceitual banco de dados.png  used on input line 111.
+Package pdftex.def Info: fotos/modelo conceitual banco de dados.png  used on input line 128.
 (pdftex.def)             Requested size: 483.69687pt x 246.9954pt.
 
 
 [7 <./fotos/modelo conceitual banco de dados.png>]
-<fotos/Modelo lógico banco de dados.png, id=97, 1314.9125pt x 655.44875pt>
+<fotos/Modelo lógico banco de dados.png, id=127, 1314.9125pt x 655.44875pt>
 File: fotos/Modelo lógico banco de dados.png Graphic file (type png)
 <use fotos/Modelo lógico banco de dados.png>
-Package pdftex.def Info: fotos/Modelo lógico banco de dados.png  used on input line 128.
+Package pdftex.def Info: fotos/Modelo lógico banco de dados.png  used on input line 145.
 (pdftex.def)             Requested size: 483.69687pt x 241.10205pt.
 
 
 [8 <./fotos/Modelo lógico banco de dados.png>]
-<fotos/canvas.png, id=104, 599.99156pt x 444.91219pt>
+<fotos/ModeloBDnoSQL.png, id=134, 1291.82625pt x 967.615pt>
+File: fotos/ModeloBDnoSQL.png Graphic file (type png)
+<use fotos/ModeloBDnoSQL.png>
+Package pdftex.def Info: fotos/ModeloBDnoSQL.png  used on input line 162.
+(pdftex.def)             Requested size: 483.69687pt x 362.29369pt.
+
+
+[9 <./fotos/ModeloBDnoSQL.png>]
+<fotos/canvas.png, id=141, 599.99156pt x 444.91219pt>
 File: fotos/canvas.png Graphic file (type png)
 <use fotos/canvas.png>
-Package pdftex.def Info: fotos/canvas.png  used on input line 149.
+Package pdftex.def Info: fotos/canvas.png  used on input line 184.
 (pdftex.def)             Requested size: 483.69687pt x 358.68648pt.
 
 
-[9 <./fotos/canvas.png>] (fatec-template.aux
+[10 <./fotos/canvas.png>]
+<fotos/AnaliseSWOT.png, id=148, 762.85pt x 434.62375pt>
+File: fotos/AnaliseSWOT.png Graphic file (type png)
+<use fotos/AnaliseSWOT.png>
+Package pdftex.def Info: fotos/AnaliseSWOT.png  used on input line 201.
+(pdftex.def)             Requested size: 483.69687pt x 275.57846pt.
+
+
+[11 <./fotos/AnaliseSWOT.png (PNG copy)>] (fatec-template.aux
 Package cleveref Info: loaded `brazilian' language definitions on input line 9.
 Package cleveref Info: loaded `brazilian' language definitions on input line 10.
 Package cleveref Info: loaded `brazilian' language definitions on input line 11.
@@ -1389,23 +1425,23 @@ L3 programming layer <2020/03/25>
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `fatec-template.out' has not changed.
-(rerunfilecheck)             Checksum: C9E9CE8FC8036722B18AF1D7FFBC48A5;1425.
+(rerunfilecheck)             Checksum: FB0389E4EF59424C2F5AE119256A6A61;2380.
 Package logreq Info: Writing requests to 'fatec-template.run.xml'.
 \openout1 = `fatec-template.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33907 strings out of 473522
- 614157 string characters out of 5715093
- 1598110 words of memory out of 5000000
- 56626 multiletter control sequences out of 15000+600000
- 593403 words of font info for 89 fonts, out of 8000000 for 9000
+ 33980 strings out of 473522
+ 615659 string characters out of 5715093
+ 1600122 words of memory out of 5000000
+ 56678 multiletter control sequences out of 15000+600000
+ 594179 words of font info for 94 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  87i,12n,131p,1756b,4536s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on fatec-template.pdf (9 pages, 494015 bytes).
+Output written on fatec-template.pdf (11 pages, 901505 bytes).
 PDF statistics:
- 135 PDF objects out of 1000 (max. 8388607)
- 29 named destinations out of 1000 (max. 500000)
- 15980 words of extra memory for PDF output out of 17280 (max. 10000000)
+ 184 PDF objects out of 1000 (max. 8388607)
+ 37 named destinations out of 1000 (max. 500000)
+ 18086 words of extra memory for PDF output out of 20736 (max. 10000000)
 
